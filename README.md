@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Angelique and I'm a Junior Mobile Developer. I'm from Germany, living in Mecklenburg-Vorpommern.
+
+
+🔧 Technologies & Skills
+                  
+
+
+
 <!--
 **Nessuna28/Nessuna28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

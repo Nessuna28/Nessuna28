@@ -5,6 +5,13 @@ My name is Angelique and I'm a Junior Mobile Developer. I'm from Germany, living
 
 🔧 Technologies & Skills
                   
+- Figma
+- IntelliJ
+- Android Studio
+- Kotlin
+- Xcode
+- Swift
+- Firebase
 
 
 

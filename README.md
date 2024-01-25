@@ -5,7 +5,7 @@
 My name is Angelique, and I am a junior app developer. I am from Germany and currently live in Mecklenburg-Vorpommern.
 I am still at the beginning of my journey but aspire to progress and continually learn new things. 👩🏻‍💻
 
-
+________________________________________________________________________________________________________________________
 
 🔧 Technologies & Skills
                   

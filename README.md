@@ -1,4 +1,6 @@
-### Hi there 👋
+#![download_image_1706184430311](https://github.com/Nessuna28/Nessuna28/assets/127739979/50b1354b-0a30-4435-af0d-1c95176e451d)
+
+## Hi there 👋
 
 My name is Angelique and I'm a Junior Mobile Developer. I'm from Germany, living in Mecklenburg-Vorpommern.
 
